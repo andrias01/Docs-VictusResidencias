@@ -30,21 +30,49 @@ En este repositorio se encuentra todo el material de diseño y análisis, incluy
 
 ## 📂 Estructura del Repositorio
 
+```text
 DOCS-VICTUSRESIDENCIAS/
 │
 ├── 📁 Diseño de victus
-│ ├── 📁 Event Storming
-│ ├── 📁 Modelo de dominio anémico
-│ ├── 📁 Modelos de Dominio Enriquecidos
-│ └── 📁 MuestreoDatos
+│   ├── 📁 Event Storming
+│   │   ├── Agendas - Event Storming.xlsx
+│   │   ├── ConjuntosResidenciales - Event Storming.xlsx
+│   │   ├── Reservas - Event Storming.xlsx
+│   │   └── Residentes - Event Storming.xlsx
+│
+│   ├── 📁 Modelo de dominio anémico
+│   │   └── Modelo de dominio anémico de contextos-VictusResidencias.xlsx
+│
+│   ├── 📁 Modelos de Dominio Enriquecidos
+│   │   ├── Modelo De Dominio Enriquecido Agendas.xlsx
+│   │   ├── Modelo De Dominio Enriquecido Reservas.xlsx
+│   │   ├── Modelo De Dominio Enriquecido Residentes.xlsx
+│   │   └── Modelo Dominio Enriquecido ConjuntosResidenciales.xlsx
+│
+│   └── 📁 MuestreoDatos
+│       ├── Agenda Muestreo Datos.xlsx
+│       ├── ConjuntosResidenciales Muestro Datos.xlsx
+│       ├── Reserva Muestreo Datos.xlsx
+│       └── Residentes Muestreo Datos.xlsx
+│
+├── apii draw.drawio
+├── dominioAnemico.png
+├── Link de GitHub para ver historia.txt
+├── Link del Draw.txt
+├── modelo Anemico.drawio
 │
 ├── 📁 PreparaciónSoftware
-│ ├── 📁 Software1
-│ └── 📁 Software2
+│   ├── 📁 Software1
+│   │   ├── Casos de Uso Administrador.docx
+│   │   ├── CrearBaseDatosQueries.txt
+│   │   └── Genaral VictusResidencias.docx
 │
-├── 📄 Diagramas (draw.io / png)
-├── 📄 Documentos de referencia
-└── 📄 README.md
+│   └── 📁 Software2
+│       ├── [UCO][Ingeniería del Software 2] Resumen ejecutivo Proyecto.pptx
+│       └── LinkMaVEN.txt
+│
+├── Modelo de dominio #4.drawio
+└── README.md
 
 
 ---
@@ -74,7 +102,8 @@ DOCS-VICTUSRESIDENCIAS/
 
 ## 📷 Vista Previa de Documentos
 
-![Modelo de Dominio Anémico](dominioAnemico.png)
+![Modelo de Dominio Anémico](Diseño%20de%20victus/dominioAnemico.png)
+
 
 ---
 
